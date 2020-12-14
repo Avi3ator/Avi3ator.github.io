@@ -1,7 +1,3 @@
-# Avi Games
-This is where i upload my games!
-
-Downloads:
-
-Domestic defense
+# Test
+This is a test site!
 
